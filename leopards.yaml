@@ -1,6 +1,10 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Luke
+=======
+manager: Nora 
+>>>>>>> parent of 5be18da (replace Replace Cheetas with Panthers)
 
 members:
 - Linda
